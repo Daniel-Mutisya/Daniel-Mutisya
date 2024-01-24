@@ -1,14 +1,7 @@
-### Hi there 👋
 
-🎮 As a tech enthusiast, I'm on a perpetual quest for knowledge, navigating the realms of automation, instrumentation, and cutting-edge software development. My mission? To seamlessly merge the physical and digital worlds, creating intelligent systems that redefine what's possible.
-
-💻 When I'm not orchestrating control strategies or weaving code, you'll find me immersed in the world of open-source collaboration. My GitHub is my playground, showcasing a symphony of projects where hardware and software dance together in perfect harmony.
-
-🛠️ From PLC programming to Python scripting, I thrive in diverse tech ecosystems. My skill set is a fusion of engineering precision and software creativity, making me your go-to maestro for multidisciplinary projects.
-
-🌐 Let's connect and explore the possibilities! Whether it's revolutionizing industrial processes or crafting the next big software innovation, I'm ready to bring my unique blend of skills to your team. Together, let's engineer a future that's both efficient and extraordinary.
 <h1 align="center">Hi 👋, I'm Daniel Mutisya</h1>
-<h3 align="center">I'm a Seasoned software developer(full-stack)I transform into a code artisan, building innovative software that pushes boundaries. Additionally, am a versatile Control and Instrumentation Engineer with a passion for precision and a knack for crafting elegant software solutions.I engineer robust control systems that keep the world running smoothly.</h3>
+<h3 align="center">I'm a Seasoned software developer(full-stack)I transform into a code artisan, building innovative software that pushes boundaries. Additionally, am a versatile Control and Instrumentation Engineer with a passion for precision and a knack for crafting elegant software solutions.I engineer robust control systems that keep the world running smoothly. 🎮 As a tech enthusiast, I'm on a perpetual quest for knowledge, navigating the realms of automation, instrumentation, and cutting-edge software development. My mission? To seamlessly merge the physical and digital worlds, creating intelligent systems that redefine what's possible. 🛠️ From PLC programming to Python scripting, I thrive in diverse tech ecosystems. My skill set is a fusion of engineering precision and software creativity, making me your go-to maestro for multidisciplinary projects.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniel-mutisya&label=Profile%20views&color=0e75b6&style=flat" alt="daniel-mutisya" /> </p>
 
